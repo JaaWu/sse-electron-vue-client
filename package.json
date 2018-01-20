@@ -2,7 +2,7 @@
   "name": "sse-test",
   "version": "0.0.0",
   "author": "jaawu <jason_a7@163.com>",
-  "description": "An electron-vue project",
+  "description": "sse client",
   "license": null,
   "main": "./dist/electron/main.js",
   "scripts": {
